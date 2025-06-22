@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "finanse-frontend",
   "version": "0.1.0",
   "private": true,
@@ -36,5 +37,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "name": "finanse-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+>>>>>>> 7bde639b7b4eac5d7754d10362b73f6fa2e68792
   }
 }
